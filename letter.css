@@ -17,6 +17,16 @@ p{
     font-size: medium;
 }
 
+p.nt{
+    color: white;
+    font-style: normal;
+    line-height: 5px;
+}
+
+p.nt:hover{
+    color: pink;
+}
+
 a{
     color: white;
 }
@@ -31,7 +41,7 @@ b{
 }
 
 b:hover{
-    color: aqua;
+    color: rgb(7, 88, 252);
 }
 
 button{
