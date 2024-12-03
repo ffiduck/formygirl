@@ -11,16 +11,18 @@ body{
 p{
     font-style: italic;
     padding-left: 20px;
-    padding-bottom: 25px;
+    padding-bottom: 20px;
     letter-spacing: px;
     line-height: 50px;
     font-size: medium;
 }
 
 p.nt{
-    color: white;
+    color: red;
     font-style: normal;
     line-height: 5px;
+    padding-bottom: 30px;
+    font-size: small;
 }
 
 p.nt:hover{
